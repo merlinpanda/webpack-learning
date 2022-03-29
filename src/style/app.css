@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'gigi';
+  src: url('../fonts/gigi.ttf') format('ttf');
+  font-weight: 600;
+  font-style: normal;
+}
+
+.hello {
+  color: red;
+  font-family: 'gigi';
+  background: url('../images/logo.png');
+}
